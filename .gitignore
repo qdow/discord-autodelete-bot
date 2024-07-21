@@ -1,0 +1,6 @@
+.env
+.git
+node_modules
+.gitattributes
+.DS_Store
+commands/.DS_Store
